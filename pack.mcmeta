@@ -1,9 +1,15 @@
-{
-    "pack":{
-        "description": "Better Mob Drop i18n pack",
-        "min_format": 4,
-        "max_format": [ 69, 0 ],
-        "pack_format": 64,
-        "supported_formats": [ 4, 64 ],
-    }
+﻿{
+	"pack": {
+		"min_format": 4,
+		"max_format": [
+			97,
+			1
+		],
+		"pack_format": 64,
+		"supported_formats": [
+			4,
+			97
+		],
+		"description": "Better Mob Drop i18n pack"
+	}
 }
